@@ -1,0 +1,6 @@
+<templateSet group="Android">
+  <template name="swi" value="switch($value$){&#10;    case $name$:&#10;    break;&#10;}" description="switch" toReformat="false" toShortenFQNames="true">
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
