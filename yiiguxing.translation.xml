@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="积分" />
+      <item value="商城" />
       <item value="house loan" />
       <item value="Mortgage" />
       <item value="Mort" />
@@ -9,7 +11,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
