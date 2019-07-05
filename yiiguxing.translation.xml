@@ -1,61 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="run" />
-      <item value="active variant" />
-      <item value="Experimental" />
-      <item value="刷脸" />
-      <item value="刷脸支付" />
-      <item value="中文" />
-      <item value="秒" />
-      <item value="分钟" />
-      <item value="分隔符" />
-      <item value="闹钟" />
-      <item value="抢购" />
-      <item value="优惠" />
-      <item value="券" />
-      <item value="deadline" />
-      <item value="有效期" />
-      <item value="优惠券" />
-      <item value="redpacket" />
-      <item value="envelope" />
-      <item value="红包" />
-      <item value="编号" />
-      <item value="邮寄编号" />
-      <item value="闲置" />
-      <item value="限制" />
-      <item value=" resource previously defined here" />
-      <item value="评价" />
-      <item value="idle" />
-      <item value="dwelling" />
-      <item value="久悬户" />
-      <item value="久悬户转出" />
-      <item value="币种" />
-      <item value="摘要" />
-      <item value="详情" />
-      <item value="明细" />
-      <item value="交易明细" />
-      <item value="承诺" />
-      <item value="到期日" />
-      <item value="职业" />
-      <item value="行业" />
-      <item value="maintain" />
-      <item value="介质" />
-      <item value="交易介质" />
-      <item value="交易截止" />
-      <item value="交易" />
-      <item value="业务" />
-      <item value="chronometer" />
-      <item value="计时器" />
-      <item value="ji'sh" />
-      <item value="视频" />
-      <item value="vedio" />
-      <item value="等待" />
+      <item value="house loan" />
+      <item value="Mortgage" />
+      <item value="Mort" />
+      <item value="房贷" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
       </map>
     </option>
   </component>
