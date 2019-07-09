@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="兼容" />
       <item value="扫描" />
       <item value="识别身份证" />
       <item value="识别" />
