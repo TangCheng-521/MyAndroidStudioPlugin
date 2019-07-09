@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="解约" />
+      <item value="节约" />
       <item value="本金" />
       <item value="prcp" />
       <item value="积分" />
