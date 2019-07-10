@@ -18,6 +18,10 @@
           <option name="url" value="http://tangcheng@10.3.92.20:7070/r/JnBankPaySample-Android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://tangcheng@10.3.92.20:7070/r/GoldBankStoreAndroid.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\AndroidStudioProjects\jnns" />
