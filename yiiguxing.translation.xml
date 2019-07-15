@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="待销毁" />
+      <item value="等待销毁" />
+      <item value="销毁" />
+      <item value="待destory" />
+      <item value="destoryfragment" />
+      <item value="destory" />
       <item value="生命周期" />
       <item value="added" />
       <item value="附加的" />
@@ -25,8 +31,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
