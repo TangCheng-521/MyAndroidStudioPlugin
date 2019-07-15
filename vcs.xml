@@ -26,8 +26,12 @@
           <option name="url" value="http://tangcheng@10.3.92.20:7070/r/JNMobileClient-Android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/googlesamples/android-architecture.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\AndroidStudioProjects\jnns" />
+    <option name="cloneParentDir" value="D:\AndroidStudioProject" />
   </component>
 </application>
