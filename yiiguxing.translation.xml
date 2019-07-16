@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="贵金属" />
+      <item value="贵重金属" />
       <item value="presenter" />
       <item value="mpv" />
       <item value="待销毁" />
@@ -34,7 +36,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
