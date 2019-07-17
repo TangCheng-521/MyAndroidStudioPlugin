@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Supervising Controller" />
+      <item value="destoryfragment" />
       <item value="贵金属" />
       <item value="贵重金属" />
       <item value="presenter" />
@@ -9,7 +11,6 @@
       <item value="等待销毁" />
       <item value="销毁" />
       <item value="待destory" />
-      <item value="destoryfragment" />
       <item value="destory" />
       <item value="生命周期" />
       <item value="added" />
@@ -35,7 +36,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
+        <entry key="CHINESE" value="8" />
         <entry key="ENGLISH" value="8" />
       </map>
     </option>
