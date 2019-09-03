@@ -5,7 +5,9 @@
       <mapping pattern="bundle-370b211a" type="PLAIN_TEXT" />
       <mapping pattern="bundle-88ee9fe7" type="PLAIN_TEXT" />
       <mapping ext="lsc" type="PLAIN_TEXT" />
+      <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="ogg" type="PLAIN_TEXT" />
+      <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
