@@ -46,8 +46,12 @@
           <option name="url" value="http://tangcheng@10.3.70.6:7070/r/JNRCB-Android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Blankj/AndroidUtilCode.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\AndroidStudioProjects\jnns" />
+    <option name="cloneParentDir" value="D:\AndroidStudioProject" />
   </component>
 </application>
