@@ -9,6 +9,7 @@
       <mapping ext="lsc" type="PLAIN_TEXT" />
       <mapping ext="aar" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="mmap" type="PLAIN_TEXT" />
       <mapping ext="ogg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
