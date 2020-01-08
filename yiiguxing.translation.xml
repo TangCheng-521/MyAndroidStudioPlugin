@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Retention" />
       <item value="适配" />
       <item value="adapt" />
       <item value="懒加载" />
@@ -50,11 +51,10 @@
       <item value="prcp" />
       <item value="积分" />
       <item value="商城" />
-      <item value="house loan" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
+        <entry key="CHINESE" value="15" />
         <entry key="ENGLISH" value="15" />
       </map>
     </option>
