@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="国徽" />
       <item value="请求" />
       <item value="交易地址" />
       <item value="演示" />
@@ -47,7 +48,6 @@
       <item value="识别身份证" />
       <item value="识别" />
       <item value="emblem" />
-      <item value="国徽" />
       <item value="解约" />
       <item value="节约" />
       <item value="本金" />
