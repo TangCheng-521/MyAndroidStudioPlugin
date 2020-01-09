@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mask Pierce" />
+      <item value="maskPierce" />
+      <item value="Pierce" />
       <item value="国徽" />
       <item value="请求" />
       <item value="交易地址" />
@@ -48,13 +51,10 @@
       <item value="识别身份证" />
       <item value="识别" />
       <item value="emblem" />
-      <item value="解约" />
-      <item value="节约" />
-      <item value="本金" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
+        <entry key="CHINESE" value="16" />
         <entry key="ENGLISH" value="16" />
       </map>
     </option>
