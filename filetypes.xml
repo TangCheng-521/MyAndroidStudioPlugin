@@ -7,12 +7,10 @@
       <mapping pattern="bundle-20191115" type="PLAIN_TEXT" />
       <mapping pattern="bundle-黄金银行测试20191030" type="PLAIN_TEXT" />
       <mapping ext="lsc" type="PLAIN_TEXT" />
-      <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="aar" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="mmap" type="PLAIN_TEXT" />
       <mapping ext="ogg" type="PLAIN_TEXT" />
-      <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
